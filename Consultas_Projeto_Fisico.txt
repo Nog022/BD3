@@ -45,6 +45,7 @@ grupo_usuario.nome_do_usuario = usuario.nome_do_usuario;
 
 
 
+
 CREATE INDEX idx_genero_empresa ON jogo(genero, empresa);
 
 CREATE INDEX idx_genero ON jogo(genero);
